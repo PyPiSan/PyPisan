@@ -1,6 +1,6 @@
 ### Hello folks 👋
 
-PyPiSan hereeee, PyPi as in 'Python Package Index' and 'San' the first three letters of my name.😜
+PyPiSan heeeeere, PyPi as in 'Python Package Index' and 'San' the first three letters of my name.😜
 
 I am not Otaku, however, a Japanophile, I think 🤔
 
