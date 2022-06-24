@@ -15,6 +15,6 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 - 👯 I’m looking to collaborate on ...Python related libraries
 - 🤔 I’m looking for help with ...my Japanese-Hindi dictionary
 - 💬 Ask me about ...anything except personal things 😄
-- 📫 How to reach me: ...sanjeev@pypisan.com
+- 📫 How to reach me: sanjeev@pypisan.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...@funsanjeev
