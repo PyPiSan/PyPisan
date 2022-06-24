@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello folks 👋
 
+PyPiSan hereeee, PyPi as in 'Python Package Index' and 'San' the first three letters of my name.😜
+
+I am not Otaku, however, a Japanophile, I think 🤔
+
+You can find me at https://www.pypisan.com
 <!--
-**PyPiSan/PyPisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PyPiSan/PyPisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...JMdict library to create my Japanese-Hindi dictionary with an andriod app, 
+     check my work here....https://api.pypisan.com/
+- 🌱 I’m currently learning ...Python, Django, Django REST, Kivy, KivyMD, Javascript..and many more things 😄
+- 👯 I’m looking to collaborate on ...Python related libraries
+- 🤔 I’m looking for help with ...my Japanese-Hindi dictionary
+- 💬 Ask me about ...anything except personal things 😄
+- 📫 How to reach me: ...sanjeev@pypisan.com
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...@funsanjeev
