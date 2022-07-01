@@ -20,4 +20,4 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 - ⚡ Fun fact: ...@funsanjeev
 
 
-### Life is short, you need Python - Bruce Eckel
+###  Life is short(you need Python)- Bruce Eckel
