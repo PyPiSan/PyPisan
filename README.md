@@ -18,3 +18,6 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 - 📫 How to reach me: sanjeev@pypisan.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...@funsanjeev
+
+
+### Life is short, you need Python - Bruce Eckel
