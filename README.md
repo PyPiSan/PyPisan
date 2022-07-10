@@ -2,7 +2,6 @@
 
 PyPiSan heeeeere, PyPi as in 'The Python Package Index' and 'San' the first three letters of my name.😜
 
-I am not Otaku, however, a Japanophile, I think 🤔
 
 You can find me at [My Portfolio](https://www.pypisan.com)
 <!--
@@ -14,10 +13,10 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 - 🌱 I’m currently learning ...Python, Django, Django REST, Kivy, KivyMD, Javascript..and many more things 😄
 - 👯 I’m looking to collaborate on ...Python related libraries
 - 🤔 I’m looking for help with ...my Japanese-Hindi dictionary
-- 💬 Ask me about ...anything except personal things 😄
+- 💬 Ask me about ...anything 😄
 - 📫 How to reach me: sanjeev@pypisan.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...@funsanjeev
 
 
-###  Life is short(you need Python)- Bruce Eckel
+###  Life is short( you need Python )- Bruce Eckel
