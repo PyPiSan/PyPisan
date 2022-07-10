@@ -6,8 +6,10 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
 **PyPiSan/PyPisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### I work on
-!(https://drive.google.com/file/d/1hDdeNIGlqR3cgJgzMc8PyYzBPut-fTcA/view?usp=sharing)
+## I work on ...
+<img src ="https://www.python.org/static/community_logos/python-logo-generic.svg" width="100"/><img src ="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="100"/><img src ="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="100"/>
+
+
 
 ### I have to edit these default lines🤔
 - 🔭 I’m currently working on ...JMdict library to create my Japanese-Hindi dictionary with an andriod app, 
