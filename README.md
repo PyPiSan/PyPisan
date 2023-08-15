@@ -31,3 +31,6 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 
 
 ###  Life is short( you need Python )- Bruce Eckel
+
+[![KinAni Card](https://github-readme-stats.vercel.app/api/pin/?username=pypisan&repo=Kinani)](https://github.com/pypisan/Kinani)
+[![Sanchitra Card](https://github-readme-stats.vercel.app/api/pin/?username=pypisan&repo=sanchitra)](https://github.com/pypisan/sanchitra)
