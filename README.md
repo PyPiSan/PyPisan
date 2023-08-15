@@ -19,6 +19,3 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 
 ###  Life is short( you need Python )- Bruce Eckel
 
-[![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pypisan&hide=contribs)](https://github.com/pypisan/github-readme-stats)
-
-![Snake animation](https://github.com/pypisan/blob/output/github-contribution-grid-snake.svg)
