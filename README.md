@@ -32,3 +32,8 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 
 ###  Life is short( you need Python )- Bruce Eckel
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://raw.githubusercontent.com/PyPiSan/PyPisan/output/github-contribution-grid-snake-dark.svg)" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/PyPisan/PyPisan/output/github-contribution-grid-snake.svg)" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PyPisan/PyPisan/output/github-contribution-grid-snake.svg" />
+</picture>
