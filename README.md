@@ -26,7 +26,6 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 - 👯 I’m looking to collaborate on ...my Python and Java base API services.
 - 💬 Ask me about ...anything 😄
 - 📫 How to reach me: sanjeev@pypisan.com
-- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...@funsanjeev
 
 
