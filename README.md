@@ -22,8 +22,9 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 
 - 🔭 I'm currently working on KinAni and Sanchitra Android apps (for TV and Mobile)
 - 🔭 I’m also working on ...JMdict library to create my Japanese-Hindi dictionary Android app, 
-- 🌱 I’m currently trying to learn ...Kotlin, Jetpack Compose..and many more things 😄
-- 👯 I’m looking to collaborate on ...my Python and Java base API services.
+- 🌱 I’m currently trying to learn ...Flutter..and many some other stuffs 😄
+- 🎻 I am also trying to learn how to play Violin.
+- 👯 I’m looking to collaborate on ...my Python and Java based API services.
 - 💬 Ask me about ...anything 😄
 - 📫 How to reach me: sanjeev@pypisan.com
 - ⚡ Fun fact: ...@funsanjeev
