@@ -28,7 +28,7 @@ You can find me at [My Portfolio](https://www.pypisan.com)
 - 💬 Ask me about ...anything 😄
 - 📫 How to reach me: sanjeev@pypisan.com
 - ⚡ Fun fact: ...@funsanjeev
-
+- https://arxiv.org/pdf/2409.08916
 
 ###  Life is short( you need Python )- Bruce Eckel
 
